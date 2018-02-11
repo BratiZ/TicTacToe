@@ -14,7 +14,8 @@ public class MyBoard extends JFrame {
                  colourButtonWinner = "#ffff33",
                  signPlayerOne = "O",
                  signPlayerTwo = "X",
-                 nameTextFont = "Arial";
+                 nameTextFont = "Arial",
+                 nameTextFontTrial = "Trial";
     
     final int sizeTextFont = 50,
               typeTextFont = Font.PLAIN;
